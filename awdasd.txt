@@ -1,0 +1,60 @@
+{"frames": {
+
+"fire1.psd":
+{
+	"frame": {"x":1367,"y":669,"w":658,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":658,"h":642},
+	"sourceSize": {"w":658,"h":658}
+},
+"fire2.psd":
+{
+	"frame": {"x":3,"y":673,"w":658,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":658,"h":642},
+	"sourceSize": {"w":658,"h":658}
+},
+"fire3.psd":
+{
+	"frame": {"x":685,"y":669,"w":658,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":658,"h":642},
+	"sourceSize": {"w":658,"h":658}
+},
+"fire4.psd":
+{
+	"frame": {"x":1367,"y":3,"w":658,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":658,"h":642},
+	"sourceSize": {"w":658,"h":658}
+},
+"fire5.psd":
+{
+	"frame": {"x":685,"y":3,"w":658,"h":642},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":658,"h":642},
+	"sourceSize": {"w":658,"h":658}
+},
+"fire6.psd":
+{
+	"frame": {"x":3,"y":3,"w":658,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":658,"h":646},
+	"sourceSize": {"w":658,"h":658}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "awdasd.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:44c2b327f12887a1f1f3c2b2af370869$"
+}
+}
